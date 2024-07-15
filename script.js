@@ -20,7 +20,7 @@ const openMenu = () => {
 
 const closeMenu = () => {
     elements.login.style.left = "-35%";
-    elements.signup.style.marginRight = "370px";
+    elements.signup.style.marginRight = "45%";
 };
 
 const validateForm = () => {
