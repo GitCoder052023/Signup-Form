@@ -11,7 +11,7 @@ const elements = {
 };
 
 const openMenu = () => {
-    elements.signup.style.marginRight = "45%";
+    elements.signup.style.marginRight = "56%";
     elements.login.style.minWidth = "50vw";
     elements.login.style.left = "44%";
     elements.login.style.zIndex = "5";
@@ -20,7 +20,7 @@ const openMenu = () => {
 
 const closeMenu = () => {
     elements.login.style.left = "-35%";
-    elements.signup.style.marginRight = "45%";
+    elements.signup.style.marginRight = "56%";
 };
 
 const validateForm = () => {
