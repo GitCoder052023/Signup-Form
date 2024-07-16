@@ -12,8 +12,8 @@ const elements = {
 
 const openMenu = () => {
     elements.signup.style.marginRight = "45%";
-    elements.login.style.minWidth = "40vw";
-    elements.login.style.left = "30%";
+    elements.login.style.minWidth = "50vw";
+    elements.login.style.left = "44%";
     elements.login.style.zIndex = "5";
     elements.login.style.minHeight = "200vh";
 };
